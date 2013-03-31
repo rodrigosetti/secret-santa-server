@@ -1,0 +1,5 @@
+.virthualenv
+dist/
+*.o
+*.hi
+
